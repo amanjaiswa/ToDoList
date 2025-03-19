@@ -35,7 +35,7 @@ const App = () => {
 
   return (
     <div style={{ maxWidth: "600px", margin: "0 auto", padding: "20px" }}>
-      <h1>Todo List</h1>
+      <h1>Aman kr Jaiswal </h1>
       <div>
         <input
           type="text"
